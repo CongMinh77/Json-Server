@@ -1,10 +1,14 @@
 {
   "job": "Dev", 
-  "email": "minhnc@deha-soft.com", 
-  "hobby": "Code", 
+  "email": "minhnc@deha-soft.com",
+  "introduce": "My name is Minh",
+  "hobby": "Code",
+  "facebook": "ncm.se7en", 
   "phone": "0987654321", 
   "circle": "DoIT", 
-  "address": "Ha Noi", 
+  "address": "Ha Noi",
+  "date_of_birth": "12/12/2000",
+  "weakness": "Viet van",
   "project": {
     "1": {
       "date": "2021", 
@@ -12,8 +16,7 @@
       "role": "DEV", 
       "member": "10"
     }
-  }, 
-  "facebook": "ncm.se7en", 
+  },
   "language": {
     "1": {
       "name": "English", 
@@ -23,8 +26,7 @@
       "name": "Vietnamese", 
       "level": "24 year"
     }
-  }, 
-  "weakness": "Viet van", 
+  },  
   "education": {
     "1": {
       "majors": "Computer science", 
@@ -34,8 +36,7 @@
       "majors": "Japanese", 
       "school": "Ha Noi University"
     }
-  }, 
-  "introduce": "My name is Minh", 
+  },
   "certificate": {
     "1": {
       "name": "PSM 1", 
@@ -51,6 +52,5 @@
       "job": "Dev", 
       "level": "Chieng"
     }
-  }, 
-  "date_of_birth": "12/12/2000"
+  }
 }
