@@ -54,3 +54,16 @@
     }
   }
 }
+
+{
+  "job": null, 
+  "circle": null, 
+  "contact": null, 
+  "project": null, 
+  "language": null, 
+  "education": null, 
+  "interests": null, 
+  "introduce": null, 
+  "certificate": null, 
+  "craftsmanship": null
+}
