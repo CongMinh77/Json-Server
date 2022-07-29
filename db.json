@@ -1,6 +1,7 @@
 {
   "job": "Dev", 
   "circle": "DoIT", 
+  "avatar": null,
   "contact": {
     "1": {
       "email": "minhnc@deha-soft.com", 
@@ -65,6 +66,7 @@
 {
   "job": null, 
   "circle": null, 
+  "avatar": null,
   "contact": null, 
   "project": null, 
   "language": null, 
